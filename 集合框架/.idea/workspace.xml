@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e3bae34-3cfd-4aa8-9837-a85947fc2bb3" name="Default Changelist" comment="" />
+    <list default="true" id="8e3bae34-3cfd-4aa8-9837-a85947fc2bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JVM基础入门/src/Leetcode001_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -31,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1qp505yMzneCT8oY8NmZtsDmmGp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -145,6 +152,7 @@
       <workItem from="1617932005591" duration="622000" />
       <workItem from="1617987237908" duration="1132000" />
       <workItem from="1618036758440" duration="637000" />
+      <workItem from="1618752620440" duration="101000" />
     </task>
     <servers />
   </component>
