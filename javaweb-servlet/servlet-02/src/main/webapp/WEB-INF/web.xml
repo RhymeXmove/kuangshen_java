@@ -30,7 +30,25 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>servlet03</servlet-name>
-        <url-pattern>/s3</url-pattern>
+        <url-pattern>/servlet03</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servlet04</servlet-name>
+        <servlet-class>com.kuang.servlet.Servlet04</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet04</servlet-name>
+        <url-pattern>/servlet04</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servlet05</servlet-name>
+        <servlet-class>com.kuang.servlet.Servlet05</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet05</servlet-name>
+        <url-pattern>/servlet05</url-pattern>
     </servlet-mapping>
 
     <context-param>
