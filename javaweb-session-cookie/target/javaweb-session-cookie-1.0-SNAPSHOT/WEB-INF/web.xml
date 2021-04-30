@@ -32,4 +32,32 @@
     <url-pattern>/cd03</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <servlet-name>sessionDemo01</servlet-name>
+    <servlet-class>com.kuang.session.SessionDemo01</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sessionDemo01</servlet-name>
+    <url-pattern>/sd01</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>sessionDemo02</servlet-name>
+    <servlet-class>com.kuang.session.SessionDemo02</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sessionDemo02</servlet-name>
+    <url-pattern>/sd02</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>sessionDemo03</servlet-name>
+    <servlet-class>com.kuang.session.SessionDemo03</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sessionDemo03</servlet-name>
+    <url-pattern>/sd03</url-pattern>
+  </servlet-mapping>
+
 </web-app>
